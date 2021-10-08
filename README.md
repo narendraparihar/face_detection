@@ -3,6 +3,7 @@
 
 #### Code description.
   1)CascadeClassifier method is used of cv2 library.
+  2)Completely Build using Python 
 
 #### Screenshot
 
